@@ -4,10 +4,13 @@
  * rpm
  * power
  * torque
+ * losses 
 
 # logic
  torque = power / rpm
  power = losses vs work done
+ 
+
 
 # attributes
   * weather
